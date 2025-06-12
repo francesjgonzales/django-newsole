@@ -1,0 +1,1 @@
+echo "web: gunicorn myproject.wsgi:application" > Procfile
